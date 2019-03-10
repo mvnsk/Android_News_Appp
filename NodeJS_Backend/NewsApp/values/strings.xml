@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    
+    <string name="view_full_article"><u><b>View Full Article</b></u></string>
+    <string name="search_hint">CoronaVirus</string>
+    <string name="progress_bar_text">Fetching News</string>
+    <string name="no_bookmarked_articles">No Bookmarked Articles</string>
+</resources>
